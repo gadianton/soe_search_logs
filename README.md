@@ -1,5 +1,5 @@
 # Stack Overflow for Teams Tag Report (so4t_tag_report)
-A Python script for Stack Overflow Enterprise that creates a report (CSV file) of search history from users. You can see an example of what the output looks like in the Examples directory.
+A Python script for Stack Overflow Enterprise that creates a report (CSV file) of search history from users. You can see an [example](https://github.com/jklick-so/soe_search_logs/blob/main/Examples/search_logs.csv) of what the output looks like in the Examples directory.
 
 All data obtained via this script is handled locally on the device from which the script is run. The script does not transmit data to other parties, such as Stack Overflow. This script is entirely read only, with no ability to change/add content on your Stack Overflow instance.
 
@@ -12,7 +12,7 @@ This script is offered with no formal support from Stack Overflow. If you run in
 * Chrome browser
 
 ## Setup
-Download and unpack the contents of this repository
+[Download](https://github.com/jklick-so/soe_search_logs/archive/refs/heads/main.zip) and unpack the contents of this repository
 
 To install the required open source libraries for Python:
 * Open a terminal window (or, for Windows, a command prompt)
@@ -22,8 +22,9 @@ To install the required open source libraries for Python:
 ## Usage
 In a terminal window, navigate to the directory where you unpacked the script. 
 Run the script using the following format, replacing the URL your own:
+
 `python3 so4t_tag_report.py --url "https://SUBDOMAIN.stackenterprise.co"`
 
 At the beginning of the script, a small Chrome window will appear, prompting you to login to your instance of Stack Overflow Enterpise. After logging in, the Chrome window will disappear and the script will proceed in the terminal window.
 
-The script typically takes less than a minute to run. As it runs, it will continue to update the terminal window with the status. When the script completes, it will indicate the the CSV has been exported, along with the name of file. You can see an example of what the output looks like in the Examples directory.
+The script typically takes less than a minute to run. As it runs, it will continue to update the terminal window with the status. When the script completes, it will indicate the the CSV has been exported, along with the name of file. You can see an [example](https://github.com/jklick-so/soe_search_logs/blob/main/Examples/search_logs.csv) of what the output looks like in the Examples directory.
