@@ -1,0 +1,41 @@
+timestamp,query,user_id
+2023-06-21 22:30:27Z,github,28123
+2023-06-21 20:49:37Z,is:q,28069
+2023-06-21 13:40:40Z,avoid sql injection,28209
+2023-06-20 18:18:53Z,billing service,28123
+2023-06-20 16:13:31Z,What are our internal best practices for using Big Data? ,28267
+2023-06-20 16:09:09Z,best pratices for ci cd,28267
+2023-06-20 16:09:00Z,azure terraform ,28267
+2023-06-20 09:15:33Z,[python],28174
+2023-06-16 14:19:57Z,compliance,28286
+2023-06-16 14:16:02Z,embedded,28286
+2023-06-15 17:11:37Z,vpn,28269
+2023-06-15 16:18:19Z,[knowledge-article] is:article,28119
+2023-06-15 12:30:39Z,setup virtual desktop,28190
+2023-06-15 07:35:17Z,django,28156
+2023-06-14 18:14:50Z,user:28069,28209
+2023-06-14 16:03:59Z,analytics,28129
+2023-06-14 13:33:10Z,image classification python,28190
+2023-06-13 07:00:23Z,ml/ai onboarding,28312
+2023-06-12 20:05:42Z,[python] error code,28209
+2023-06-09 06:57:28Z,pandas gbq,28249
+2023-06-09 05:29:15Z,confluence,28312
+2023-06-09 02:59:59Z,llm onboarding,28312
+2023-06-09 01:07:46Z,How do I setup my IDE for this project?,28312
+2023-06-08 14:25:43Z,pandas,28123
+2023-06-08 14:12:58Z,Summing 2 dictonaries in Python,28157
+2023-06-08 14:12:06Z,java ,28157
+2023-06-08 14:11:34Z,what does the yield keyword do in python,28157
+2023-06-08 14:08:24Z,java strings,28157
+2023-06-07 16:55:56Z,user:28187,28069
+2023-06-06 11:25:48Z,securely consume api,28208
+2023-06-01 18:30:35Z,communities faqs,28294
+2023-06-01 08:54:12Z,k8,28156
+2023-06-01 08:54:08Z,soc2,28156
+2023-06-01 08:54:02Z,iso27001,28156
+2023-06-01 08:53:21Z,microservices,28156
+2023-05-30 19:22:49Z,dockerize python projects ,28181
+2023-05-26 11:02:57Z,cloud project,28156
+2023-05-25 19:06:33Z,data in snowflake schema,28209
+2023-05-25 19:06:08Z,statistical models in snowflake,28209
+2023-05-25 19:05:49Z,snowflake,28209
