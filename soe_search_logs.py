@@ -139,6 +139,7 @@ def export_search_logs_to_csv(search_logs):
         for log in search_logs:
             writer.writerow(log)
 
+    print(f'Search logs exported to {file_name}')
 
 if __name__ == '__main__':
 
