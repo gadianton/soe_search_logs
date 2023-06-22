@@ -1,4 +1,4 @@
-# Stack Overflow for Teams Tag Report (so4t_tag_report)
+# Stack Overflow Enterprise Search Logs
 A Python script for Stack Overflow Enterprise that creates a report (CSV file) of search history from users. You can see an [example](https://github.com/jklick-so/soe_search_logs/blob/main/Examples/search_logs.csv) of what the output looks like in the Examples directory.
 
 All data obtained via this script is handled locally on the device from which the script is run. The script does not transmit data to other parties, such as Stack Overflow. This script is entirely read only, with no ability to change/add content on your Stack Overflow instance.
