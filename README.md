@@ -6,7 +6,7 @@ All data obtained via this script is handled locally on the device from which th
 This script is offered with no formal support from Stack Overflow. If you run into issues using the script, please please open a GitHub issue and/or reach out to the person who provided it to you. You are also welcome to edit the script to suit your needs.
 
 ## Requirements
-* A Stack Overflow Enterprise instance
+* Stack Overflow Enterprise and a user account with admin permissions
 * Python 3.x ([download](https://www.python.org/downloads/))
 * Operating system: Linux, MacOS, or Windows
 * Chrome browser
