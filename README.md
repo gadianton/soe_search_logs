@@ -23,7 +23,7 @@ To install the required open source libraries for Python:
 In a terminal window, navigate to the directory where you unpacked the script. 
 Run the script using the following format, replacing the URL your own:
 
-`python3 so4t_tag_report.py --url "https://SUBDOMAIN.stackenterprise.co"`
+`python3 soe_search_logs.py --url "https://SUBDOMAIN.stackenterprise.co"`
 
 At the beginning of the script, a small Chrome window will appear, prompting you to login to your instance of Stack Overflow Enterpise. After logging in, the Chrome window will disappear and the script will proceed in the terminal window.
 
