@@ -30,7 +30,7 @@ def get_args():
         description='Gathers search logs from Stack Overflow for Teams and exports them to a CSV '
                     'file.',
         epilog = 'Example for Stack Overflow Enterprise: \n'
-                 'python3 soe_search_metrics.py --url "https://SUBDOMAIN.stackenterprise.co"\n\n')
+                 'python3 soe_search_logs.py --url "https://SUBDOMAIN.stackenterprise.co"\n\n')
     parser.add_argument('--url', 
                         type=str,
                         help='[REQUIRED] Base URL for your Stack Overflow for Teams instance')
